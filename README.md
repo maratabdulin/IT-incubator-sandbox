@@ -16,3 +16,4 @@ and start studying at :baby_chick:[it-incubator](https://sandbox.it-incubator.ru
 6. [Basic data types--Boolean and conditional statements if..else](http://www.codewars.com/kata/571f832f07363d295d001ba8)
 7. [if..else and ternary operator](http://www.codewars.com/kata/57202aefe8d6c514300001fd)
 8. [Conditional statement--switch](http://www.codewars.com/kata/572059afc2f4612825000d8a)
+9. [loop statement --while and do..while](http://www.codewars.com/kata/57216d4bcdd71175d6000560)
