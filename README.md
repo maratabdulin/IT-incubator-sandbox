@@ -15,3 +15,4 @@ and start studying at :baby_chick:[it-incubator](https://sandbox.it-incubator.ru
 5. [Basic data types--Object](http://www.codewars.com/kata/571f1eb77e8954a812000837)
 6. [Basic data types--Boolean and conditional statements if..else](http://www.codewars.com/kata/571f832f07363d295d001ba8)
 7. [if..else and ternary operator](http://www.codewars.com/kata/57202aefe8d6c514300001fd)
+8. [Conditional statement--switch](http://www.codewars.com/kata/572059afc2f4612825000d8a)
