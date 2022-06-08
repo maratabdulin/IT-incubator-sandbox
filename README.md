@@ -20,3 +20,4 @@ and start studying at :baby_chick:[it-incubator](https://sandbox.it-incubator.ru
 10. [loop statement --for](http://www.codewars.com/kata/5721a78c283129e416000999)
 11. [loop statement --break,continue](https://www.codewars.com/kata/5721c189cdd71194c1000b9b)
 12. [loop statement --for..in and for..of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000)
+13. [Number object and its properties](https://www.codewars.com/kata/5722fd3ab7162a3a4500031f/train/javascript)
